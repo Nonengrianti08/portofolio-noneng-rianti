@@ -1,6 +1,4 @@
-/* =================================
-   GENERAL SETTINGS
-================================= */
+/* GENERAL SETTINGS */
 
 * {
     margin: 0;
@@ -41,9 +39,7 @@ img {
 }
 
 
-/* =================================
-   NAVBAR
-================================= */
+/* NAVBAR */
 
 .navbar {
     width: 100%;
@@ -90,9 +86,7 @@ img {
 }
 
 
-/* =================================
-   HERO / HOME
-================================= */
+/* HERO / HOME */
 
 .hero {
     min-height: 580px;
@@ -105,7 +99,7 @@ img {
             rgba(10, 42, 75, 0.92),
             rgba(23, 105, 170, 0.83)
         ),
-        url("gambar/banner.jpg");
+        url("gambar/banner.png");
 
     background-size: cover;
     background-position: center;
@@ -212,9 +206,7 @@ img {
 }
 
 
-/* =================================
-   GENERAL SECTION
-================================= */
+/* GENERAL SECTION */
 
 .section {
     padding: 85px 0;
@@ -249,9 +241,7 @@ img {
 }
 
 
-/* =================================
-   ABOUT
-================================= */
+/* ABOUT */
 
 .about-section {
     background: white;
@@ -306,9 +296,7 @@ img {
 }
 
 
-/* =================================
-   SKILLS
-================================= */
+/* SKILLS */
 
 .skills-section {
     background: #f5f9ff;
@@ -368,9 +356,7 @@ img {
 }
 
 
-/* =================================
-   PROJECTS
-================================= */
+/* PROJECTS */
 
 .projects-section {
     background: white;
@@ -454,9 +440,7 @@ img {
 }
 
 
-/* =================================
-   CONTACT
-================================= */
+/* CONTACT */
 
 .contact-section {
     background: #f5f9ff;
@@ -506,9 +490,7 @@ img {
 }
 
 
-/* =================================
-   FOOTER
-================================= */
+/* FOOTER */
 
 .footer {
     background: #102b46;
@@ -534,9 +516,7 @@ img {
 }
 
 
-/* =================================
-   RESPONSIVE TABLET
-================================= */
+/* RESPONSIVE TABLET */
 
 @media (max-width: 900px) {
 
@@ -567,9 +547,7 @@ img {
 }
 
 
-/* =================================
-   RESPONSIVE MOBILE
-================================= */
+/* RESPONSIVE MOBILE */
 
 @media (max-width: 600px) {
 
